@@ -1,0 +1,93 @@
+/* hero-section */
+.hero-section {
+    background-color: #171D28;
+    display: flex;
+}
+
+.hero-start {
+    color: #FEFEFE;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+    padding-left: 5rem;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bring-heading{
+    font-size: 3.2vw;
+    line-height: 1.1;
+}
+
+.hero-text p {
+    font-size: 1.2vw;
+    line-height: 1.4;
+}
+
+.hero-button {
+    align-self: flex-start;
+    max-width: 20rem;
+    margin-top: 2rem;
+}
+
+/* trending-brands */
+.trending-brands {
+    text-align: center;
+}
+
+.trending-brands-title {
+    padding-top: 40px;
+    color: #141718;
+}
+
+.trending-brands-names {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 16px;
+}
+
+/* Banner */
+.Banner {
+    display: flex;
+    background-color: #F3F5F7;
+}
+
+.Banner-Content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 5rem;
+}
+
+.Banner-title-header {
+    padding: 32px 0px;
+}
+
+.Banner-Button button{
+    font-size: small;
+    text-align: center;
+    border-bottom: solid;
+    border-radius: 0;
+    margin-top: 2rem;
+}
+
+/* Values */
+.Values {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Values-cards {
+    margin: 16px 0px;
+    padding: 48px 32px;
+}
+
+.Values-cards-text p{
+    line-height: 2rem;
+}

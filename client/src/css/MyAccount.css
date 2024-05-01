@@ -1,0 +1,161 @@
+.my-account-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.title-section {
+  text-align: center;
+}
+
+.body-section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.left-section {
+  width: 262px;
+  background-color: #f3f5f7;
+  padding: 20px;
+  height: 498px;
+}
+
+.avatar-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.avatar-section > img {
+    height: 82px;
+    width: 82px;
+}
+
+.name {
+  line-height: 32px;
+  height: 32px;
+  width: 131px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #333;
+  font-weight: bold;
+}
+
+.navigation-section {
+  margin-top: 20px;
+}
+
+.navigation-section p {
+  height: 42px;
+  width: 230px;
+  line-height: 42px;
+  margin-bottom: 10px;
+  font-weight: normal;
+  border-radius: 5px;
+  padding-left: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.navigation-section p.selected {
+  font-weight: bold;
+  background-color: #000000;
+  color: white;
+}
+
+.navigation-section p:not(.selected):hover {
+  background-color: #e0e0e0;
+}
+
+.right-section {
+  width: 65%;
+  padding: 20px;
+}
+
+.details-section h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.input-group {
+  margin-bottom: 12px;
+}
+
+.input-group label {
+  font-weight: bold;
+  text-transform: capitalize;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  height: 40px;
+  width: calc(100% - 16px);
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.info-text {
+  color: #666;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.save-btn {
+  background-color: black !important;
+  color: white !important;
+  border-radius: 5px !important;
+  margin-top: 20px;
+}
+
+.save-btn:hover {
+  background-color: #333;
+}
+
+.address-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.address-box {
+    position: relative;
+    width: 45%;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.edit-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.orders-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.orders-header, .orders-data {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.orders-header {
+  background-color: #000000;
+  color: white;
+}
+
+.orders-row:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.orders-row:hover {
+  background-color: #ddd;
+}

@@ -1,0 +1,81 @@
+[ {
+    "imgUrl": "https://i.pinimg.com/564x/46/d6/05/46d60501bd82a23020cffd93110bf936.jpg",
+    "name": "Men's Graphic T-Shirt",
+    "price": 1200,
+    "description": "This is a 100% cotton graphic t-shirt for men. It features a unique print design that adds a touch of personality to your casual look. The shirt is available in various sizes, ensuring a comfortable fit for all. It's machine washable and retains its shape and color even after multiple washes.",
+    "category": "Men's Clothing",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/da/27/38/da27380c1601871967b49a98e55259cf.jpg",
+    "name": "Women's Denim Jeans",
+    "price": 2500,
+    "description": "These are skinny denim jeans designed for modern women. They are made from high-quality denim material that offers comfort and durability. The jeans feature a classic five-pocket design and a stylish skinny fit that flatters your figure. They are perfect for both casual and semi-formal occasions.",
+    "category": "Women's Clothing",
+    "inStock": false
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/f5/e6/d9/f5e6d9f17303bb1488659f99d7f205ab.jpg",
+    "name": "Unisex Winter Jacket",
+    "price": 3500,
+    "description": "This is a warm and cozy unisex winter jacket. It's made from premium materials that keep you warm in cold weather. The jacket features a zip-up front, a detachable hood, and multiple pockets for convenience. It's available in multiple colors, allowing you to choose the one that best suits your style.",
+    "category": "Winter Wear",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/c5/2a/38/c52a380a488df4c8a301228727e88bf8.jpg",
+    "name": "Children's Raincoat",
+    "price": 800,
+    "description": "This is a durable and waterproof raincoat for children. It's made from lightweight material that's easy to pack and carry. The raincoat features a hood and long sleeves to protect your child from the rain. It's available in various fun colors that your child will love.",
+    "category": "Children's Clothing",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/3d/f1/36/3df136d1001ea98476d2ac6899735dd5.jpg",
+    "name": "Men's Formal Shirt",
+    "price": 1500,
+    "description": "This is a men's formal shirt, perfect for office wear and formal occasions. It's made from a comfortable and breathable material that keeps you comfortable all day. The shirt features a classic collar, long sleeves, and a full-button placket. It's available in various sizes and colors.",
+    "category": "Men's Clothing",
+    "inStock": false
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/a6/d7/e2/a6d7e22bee4b4c65c23138e02aa8973a.jpg",
+    "name": "Women's Maxi Dress",
+    "price": 2200,
+    "description": "This is a women's maxi dress, perfect for summer outings and beach vacations. It's made from a lightweight and breathable material that keeps you cool in hot weather. The dress features a beautiful floral print, a round neck, and a comfortable loose fit.",
+    "category": "Women's Clothing",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/06/c7/e2/06c7e245d296ecddb0aafe696424a26e.jpg",
+    "name": "Children's Graphic T-Shirt",
+    "price": 600,
+    "description": "This is a fun and colorful graphic t-shirt for children. Made from soft, breathable cotton, it ensures comfort for all-day wear. The t-shirt features a playful graphic that kids will love. It's machine washable and retains its vibrant colors even after multiple washes.",
+    "category": "Children's Clothing",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/a3/5f/8e/a35f8ee59844d2da848a3ce396b67624.jpg",
+    "name": "Children's Denim Jeans",
+    "price": 1200,
+    "description": "These are stylish and comfortable denim jeans for children. They are made from high-quality denim that's both durable and soft on the skin. The jeans feature an adjustable waistband to accommodate growing kids and a classic five-pocket design for a touch of style.",
+    "category": "Children's Clothing",
+    "inStock": false
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/20/49/fe/2049fe4c015ebcd3f6898e1c4a49f10a.jpg",
+    "name": "Children's Winter Jacket",
+    "price": 2000,
+    "description": "This is a warm and cozy winter jacket for children. It's made from premium materials that keep your child warm in cold weather. The jacket features a zip-up front, a detachable hood, and multiple pockets for convenience. It's available in various fun colors that your child will love.",
+    "category": "Children's Clothing",
+    "inStock": true
+  },
+  {
+    "imgUrl": "https://i.pinimg.com/564x/da/f2/6d/daf26d49160d17e437cbfca455b11cb9.jpg",
+    "name": "Children's School Uniform",
+    "price": 1500,
+    "description": "This is a set of school uniform for children. It's made from a comfortable and breathable material that's perfect for all-day wear. The set includes a shirt, trousers/skirt, and a tie. It's designed to meet the requirements of most school dress codes.",
+    "category": "Children's Clothing",
+    "inStock": true
+  }
+]

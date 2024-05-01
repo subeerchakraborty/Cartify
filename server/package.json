@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  },
+  "name": "jai_kaali_threads",
+  "description": "- User Registration and Authentication\r - Product Catalog\r - Shopping Cart\r - User Reviews\r - Search and Filters\r - Checkout Process\r - Special Offers and Discounts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21"
+  }
+}

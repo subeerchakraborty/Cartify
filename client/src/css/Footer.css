@@ -1,0 +1,45 @@
+/* Footer */
+.Footer {
+    background-color: #E8ECEF;
+}
+
+.Footer-content {
+    padding: 80px 160px;
+}
+
+.Footer-content-frame {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Footer-content-bottombar {
+    border-top: 1px solid;
+    margin-top: 36px;
+}
+
+.Footer-content-bottombar-content {
+    display: flex;
+    padding: 32px 0px;
+    justify-content: space-between;
+}
+
+.Content {
+    display: flex;
+}
+
+.Content-frame {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 16px;
+    border-left: 1px solid #6C7275;
+}
+
+.Content-frame p {
+    margin-left: 16px;
+}
+
+
+.Content-PaymentMethod {
+    display: flex;
+    justify-content: space-evenly;
+}

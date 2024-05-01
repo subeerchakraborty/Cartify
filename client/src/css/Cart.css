@@ -1,0 +1,26 @@
+.Cart-content {
+    padding: 80px 160px;
+}
+
+.Cart-content h1 {
+    text-align: center;
+}
+
+.Cart-content-header {
+    align-items: center;
+}
+
+.Process {
+    padding-top: 40px;
+}
+
+.Cart-content-items {
+    border-top: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Cart-content-items h1 {
+    padding: 20px;
+}

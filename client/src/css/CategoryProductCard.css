@@ -1,0 +1,25 @@
+.Product-Carousel {
+    padding-left: 2.4rem;
+    padding-top: 2.88rem;
+}
+
+.Product-Carousel-product-cards {
+    display: flex;
+    padding-top: 2.88rem;
+}
+
+.Product-Carousel-products {
+    margin: 12px;
+}
+
+/* Categories */
+.Categories-title {
+    text-align: center;
+    padding-top: 2.88rem;
+}
+
+.Categories-names {
+    padding-top: 2.88rem;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    border: border-box;
+}
+
+/* offer banner */
+.offer {
+    height: 40px;
+    background-color: #377DFF;
+    color: #FEFEFE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.offer div {
+    margin-left: 12px;
+}
+
+.offer-text {
+    font-weight: 600;
+}
+
+.offer-shop {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.offer-shop {
+    border-bottom: 1px solid;
+    cursor: pointer;
+}
